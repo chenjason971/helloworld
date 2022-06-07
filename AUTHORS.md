@@ -1,3 +1,2 @@
 - Jason Chen - chenjason971@gmail.com
 - Brian Lake - bnlake@gmail.com
-- Cody McPherron - supercoolguy@yahoo.com
